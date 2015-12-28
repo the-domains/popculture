@@ -1,0 +1,28 @@
+name: PopCulture
+favicon: null
+layout_spectrum: 0.393067448399961
+typography_spectrum: 0.74574568355456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#221a0f'
+    - '#c1b782'
+    - '#a18959'
+    - '#fb5956'
+    - '#e5ded8'
+  brandStrength: 1
+  lightness: 0.9070241446606815
+  saturation: 0.8663219448644668
+  rhythmicContrast: 0.47711333469487727
+purpose: []
