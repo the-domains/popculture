@@ -2,6 +2,7 @@ analytics:
   twitter: null
   google: null
   facebook: null
+name: PopCulture
 opengraph:
   image: null
   type: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.6035
-cta:
-  bucket: null
-  version: null
-  domain: null
+    permalink:
+      path: '/:title/'
+purpose: []
+typography_spectrum: 0.07757167
 color:
-  saturation: 0.8663219448644668
+  saturation: 0.5160202
   brandStrength: 1
-  rhythmicContrast: 0.4771133346948773
+  lightness: 1
   brandColors:
     - '#221a0f'
     - '#c1b782'
     - '#a18959'
     - '#fb5956'
     - '#e5ded8'
-  lightness: 0.9070241446606815
-purpose: []
+  rhythmicContrast: 0.5160202
+layout_spectrum: 0.5952783
+cta:
+  bucket: null
+  version: null
+  domain: null
 favicon: null
-name: PopCulture
-typography_spectrum: 0.6904
