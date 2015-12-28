@@ -1,8 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: PopCulture
+favicon: null
 opengraph:
   image: null
   type: null
@@ -23,8 +19,8 @@ purpose: []
 typography_spectrum: 0.07757167
 color:
   saturation: 0.5160202
-  brandStrength: 1
   lightness: 1
+  brandStrength: 0.5008432
   brandColors:
     - '#221a0f'
     - '#c1b782'
@@ -32,9 +28,13 @@ color:
     - '#fb5956'
     - '#e5ded8'
   rhythmicContrast: 0.5160202
-layout_spectrum: 0.5952783
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
+layout_spectrum: 0.5952783
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: PopCulture
