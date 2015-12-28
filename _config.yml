@@ -1,28 +1,40 @@
-name: PopCulture
-favicon: null
-layout_spectrum: 0.6035
-typography_spectrum: 0.6904
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.6035
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.8663219448644668
+  brandStrength: 1
+  rhythmicContrast: 0.4771133346948773
   brandColors:
     - '#221a0f'
     - '#c1b782'
     - '#a18959'
     - '#fb5956'
     - '#e5ded8'
-  brandStrength: 1
   lightness: 0.9070241446606815
-  saturation: 0.8663219448644668
-  rhythmicContrast: 0.47711333469487727
 purpose: []
+favicon: null
+name: PopCulture
+typography_spectrum: 0.6904
