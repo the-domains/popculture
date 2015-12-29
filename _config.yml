@@ -1,7 +1,7 @@
 name: PopCulture
 favicon: null
 layout_spectrum: 0.40545
-typography_spectrum: 0.10888
+typography_spectrum: 0.24
 collections:
   - index:
       path: /
